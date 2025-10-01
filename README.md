@@ -43,7 +43,7 @@ This project highlights skills in data engineering, machine learning, cloud plat
 * KPI Cards (Accuracy, F1, ROC-AUC).
 * Confusion Matrix (to show true vs. predicted).
 * Probability Distributions (confidence of predictions).
-* Misclassified Review Table (for error analysis).
+* Misclassified Review Table (for error analysis). ![Results](visuals/Results.png)
 
 ### Results
 
