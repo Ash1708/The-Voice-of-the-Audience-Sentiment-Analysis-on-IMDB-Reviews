@@ -1,5 +1,5 @@
 # The-Voice-of-the-Audience-Sentiment-Analysis-on-IMDB-Reviews
-End-to-End NLP Pipeline for Sentiment Analysis (IMDB Reviews)
+## End-to-End NLP Pipeline for Sentiment Analysis (IMDB Reviews)
 
 ## Project Overview
 This project demonstrates how to build a full machine learning pipeline for sentiment analysis, leveraging Azure Databricks for large-scale training and Power BI for business insights. Using the IMDB reviews dataset, I implemented an NLP workflow that classifies movie reviews as positive or negative, and translated model results into actionable insights for decision-making.
